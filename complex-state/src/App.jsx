@@ -1,6 +1,6 @@
 import React from "react";
-import starFilled from "../public/star-filled.png";
-import starEmpty from "../public/star-empty.png";
+import starFilled from "/star-filled.png";
+import starEmpty from "/star-empty.png";
 import "./App.css";
 import Card from "./Card";
 

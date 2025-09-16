@@ -1,4 +1,4 @@
-import avatar from "../public/user.png";
+import avatar from "/user.png";
 
 const Card = ({ contact, toggleFavorite, starIcon }) => {
   return (
